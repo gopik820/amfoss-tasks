@@ -1,5 +1,5 @@
 # amFoss-tasks
-Hey my name Gopi and I am an S1 student in Amrita College of Engineering CSE (Batch A)
+Hey my name is Gopi and I am an S1 student in Amrita College of Engineering CSE (Batch A)
 # About me
 
 I was born and brought up in this small city in Kerala known as Trivandrum.To be honest I wouldnt say that Amrita was my first choice but I later on realised that
