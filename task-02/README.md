@@ -1,2 +1,1 @@
-To be honest I really didnt know what freenode was so I had to search and find out more about it.But once I understood what it was it became really easy and I registered in IRC Freenode
-with the nick:kamekaze.
+To be honest I really didnt know what freenode was so I had to search and find out more about it.But once I understood what it was and what the codes to be used were, it became really easy and I registered in IRC Freenode with the nick:kamekaze.
