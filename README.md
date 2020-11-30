@@ -1,5 +1,24 @@
 # amFoss tasks- K Gopikrishna
 Hey my name is Gopi and I am an S1 student in Amrita College of Engineering CSE (Batch A)
+
+| Task | | Status |
+| --- | --- | --- |
+| [Task 01] | Completed |
+| [Task 02] | Completed |
+| [Task 03] | Incomplete |
+| [Task 04] | Completed |
+| [Task 05] | Pending |
+| [Task 06] | Pending|
+| [Task 07] | Incomplete |
+| [Task 08] | Pending |
+| [Task 09] | Completed |
+| [Task 10] | Incomplete |
+| [Task 11] | Completed |
+| [Task 12] | Completed |
+| [Task 13] | Completed |
+| [Task 14] | Completed |
+| [Task 15] | Completed |
+
 # About me
 
 I was born and brought up in this small city in Kerala known as Trivandrum.To be honest I wouldnt say that Amrita was my first choice but I later on realised that
