@@ -1,6 +1,4 @@
 #include<iostream>
-#include<conio.h>
-#include<stdlib.h>
 #include<math.h>
 #define pi 3.1415926535898
 using namespace std;
@@ -52,6 +50,6 @@ int main()
         cout << minvalue << endl;
     }
     
-    
+   return 0; 
 }
 
